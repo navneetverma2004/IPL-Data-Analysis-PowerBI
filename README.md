@@ -10,7 +10,7 @@ The dashboard provides season-wise insights into team performance, player statis
 
 ## 🚀 Dashboard Preview
 
-![IPL Dashboard](screenshot/dashboard.png)
+<img src="./Screenshot/Dashboard.png" alt="IPL Dashboard" width="100%">
 
 ---
 
